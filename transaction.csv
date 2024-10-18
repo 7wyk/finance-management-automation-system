@@ -1,0 +1,63 @@
+Date,Description,Amount,Category,Transaction Type,Status
+2020-01-15,Coffee Shop,15.00,Food,Debit,Completed
+2020-02-20,Bus Ticket,5.00,Transport,Debit,Completed
+2020-03-25,Grocery Store,120.00,Groceries,Debit,Completed
+2020-04-10,Electricity Bill,60.00,Utilities,Debit,Completed
+2020-05-05,Freelance Payment,500.00,Income,Credit,Completed
+2020-06-17,Restaurant,50.00,Food,Debit,Completed
+2020-07-21,Internet Bill,30.00,Utilities,Debit,Completed
+2020-08-14,Phone Recharge,10.00,Utilities,Debit,Completed
+2020-09-27,Taxi Ride,20.00,Transport,Debit,Completed
+2020-10-10,Netflix Subscription,12.00,Entertainment,Debit,Completed
+2020-11-18,Rent,750.00,Housing,Debit,Completed
+2020-12-22,Clothing Purchase,80.00,Shopping,Debit,Completed
+
+2021-01-05,Groceries,150.00,Groceries,Debit,Completed
+2021-02-14,Concert Ticket,40.00,Entertainment,Debit,Completed
+2021-03-21,Salary,1200.00,Income,Credit,Completed
+2021-04-30,Electricity Bill,65.00,Utilities,Debit,Completed
+2021-05-12,Freelance Payment,600.00,Income,Credit,Completed
+2021-06-08,Gym Membership,45.00,Fitness,Debit,Completed
+2021-07-19,Bus Ticket,10.00,Transport,Debit,Completed
+2021-08-24,Online Course,100.00,Education,Debit,Completed
+2021-09-02,Taxi Ride,25.00,Transport,Debit,Completed
+2021-10-15,Phone Bill,20.00,Utilities,Debit,Completed
+2021-11-29,Internet Bill,35.00,Utilities,Debit,Completed
+2021-12-18,Restaurant Dinner,65.00,Food,Debit,Completed
+
+2022-01-10,Coffee Shop,10.00,Food,Debit,Completed
+2022-02-22,Phone Recharge,15.00,Utilities,Debit,Completed
+2022-03-14,Salary,1300.00,Income,Credit,Completed
+2022-04-16,Gym Membership,50.00,Fitness,Debit,Completed
+2022-05-08,Freelance Payment,700.00,Income,Credit,Completed
+2022-06-03,Bus Ticket,8.00,Transport,Debit,Completed
+2022-07-20,Electricity Bill,70.00,Utilities,Debit,Completed
+2022-08-11,Groceries,140.00,Groceries,Debit,Completed
+2022-09-25,Taxi Ride,30.00,Transport,Debit,Completed
+2022-10-05,Netflix Subscription,15.00,Entertainment,Debit,Completed
+2022-11-30,Rent,800.00,Housing,Debit,Completed
+2022-12-19,Clothing Purchase,100.00,Shopping,Debit,Completed
+
+2023-01-14,Restaurant Lunch,35.00,Food,Debit,Completed
+2023-02-07,Bus Ticket,7.00,Transport,Debit,Completed
+2023-03-13,Phone Recharge,20.00,Utilities,Debit,Completed
+2023-04-06,Freelance Payment,800.00,Income,Credit,Completed
+2023-05-22,Groceries,160.00,Groceries,Debit,Completed
+2023-06-18,Electricity Bill,80.00,Utilities,Debit,Completed
+2023-07-30,Concert Ticket,45.00,Entertainment,Debit,Completed
+2023-08-12,Gym Membership,55.00,Fitness,Debit,Completed
+2023-09-04,Phone Bill,30.00,Utilities,Debit,Completed
+2023-10-01,Coffee Shop,12.00,Food,Debit,Completed
+2023-10-05,Freelance Payment,500.00,Income,Credit,Completed
+2023-10-10,Rent,800.00,Housing,Debit,Completed
+
+2024-01-10,Salary,1500.00,Income,Credit,Completed
+2024-02-23,Bus Ticket,8.00,Transport,Debit,Completed
+2024-03-04,Restaurant,45.00,Food,Debit,Completed
+2024-04-19,Electricity Bill,90.00,Utilities,Debit,Completed
+2024-05-11,Groceries,180.00,Groceries,Debit,Completed
+2024-06-29,Phone Recharge,25.00,Utilities,Debit,Completed
+2024-07-13,Freelance Payment,1000.00,Income,Credit,Completed
+2024-08-16,Clothing Purchase,110.00,Shopping,Debit,Completed
+2024-09-03,Netflix Subscription,20.00,Entertainment,Debit,Completed
+2024-10-05,Gym Membership,60.00,Fitness,Debit,Completed
